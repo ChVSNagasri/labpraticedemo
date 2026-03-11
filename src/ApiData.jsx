@@ -2,6 +2,7 @@ import axios from 'axios';
 import React from 'react'
 import { useEffect } from 'react';
 import { useState } from 'react'
+import AdminDashBoard from './AdminDashBoard';
 
 export default function ApiData()
  {
@@ -25,7 +26,9 @@ export default function ApiData()
         displayData()
     }, []);
   return (
+   
     <div>
+      <AdminDashBoard/>
              <h1><u>Axios Demo</u></h1>
       {
         error?<b>{error}</b>:

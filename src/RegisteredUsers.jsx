@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState,useEffect } from 'react'
 import userdata from './users.json'
+import AdminDashBoard from './AdminDashBoard'
 export default function RegisteredUsers() 
 {
 const[user,setUser]=useState(userdata)
@@ -21,6 +22,8 @@ useEffect(() => {
 
   return (
     <div>
+      
+            <AdminDashBoard/>
 <table border={1}>
   <tr>
     <th>ID</th>

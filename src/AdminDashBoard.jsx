@@ -9,7 +9,7 @@ export default function AdminDashBoard()
       <nav>
      <button onClick={()=>{navigate("/api")}}>Api DATA</button>
        <button onClick={()=>{navigate("/registers")}}>Registered Users</button>
-       
+       <button onClick={()=>{navigate("/")}}>Home</button>
        </nav>
     </div>
   )
