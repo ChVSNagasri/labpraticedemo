@@ -1,0 +1,12 @@
+nav{
+    background-color: rgb(163, 227, 254);
+}
+button{
+    margin:20px;
+    background-color: bisque;
+    text-decoration: none;
+    border-radius: 5px;
+}
+button :hover{
+    background-color: beige;
+}

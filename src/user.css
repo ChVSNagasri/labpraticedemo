@@ -1,0 +1,12 @@
+input{
+    border-color: blue;
+    margin:10px;
+    border-radius: 10px;
+}
+label{
+    color: brown;
+}
+select{
+    margin:10px;
+    color: rgb(228, 138, 78);
+}

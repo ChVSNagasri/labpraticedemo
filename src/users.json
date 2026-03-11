@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Ch.Nagasri",
+    "email": "nagasri@gmail.com",
+    "contact":8555555555
+  },
+  {
+    "id": 2,
+    "name": "K.Mokthika",
+    "email": "mokthika@gmail.com",
+    "contact":78888888888
+  },
+
+  {
+    "id": 3,
+    "name": "Y.Jahnavi",
+    "email": "jahnavi@gmail.com",
+    "contact":8333333333
+  },
+  {
+    "id": 4,
+    "name": "Ch.Smith",
+    "email": "smith@gmail.com",
+    "contact":811111111
+  },
+  {"id": 5,
+    "name": "K.Bob",
+    "email": "Bob@gmail.com",
+    "contact":622222222
+  },
+  {"id": 6,
+    "name": "M.Ananya",
+    "email": "ananya@gmail.com",
+    "contact":811122233
+  },
+  {"id": 7,
+    "name": "P.Prashanthi",
+    "email": "prashanthi@gmail.com",
+    "contact":855500011
+  },
+  {"id": 8,
+    "name": "Ch.Tineesha",
+    "email": "tineesha@gmail.com",
+    "contact":7444444444
+  },
+   {"id": 9,
+    "name": "Ch.Navyasri",
+    "email": "navya@gmail.com",
+    "contact":633331111
+  }
+]
